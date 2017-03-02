@@ -1,11 +1,11 @@
 package main
 
 import (
-	_ "tutorial2_web_mysql_simple/routers"
+	_ "beego_web_mysql/routers"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
 	_ "github.com/go-sql-driver/mysql"
-	"tutorial2_web_mysql_simple/models"
+	"beego_web_mysql/models"
 	"fmt"
 )
 

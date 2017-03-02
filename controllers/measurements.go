@@ -4,7 +4,7 @@ import (
 	"github.com/astaxie/beego"
 	"fmt"
 	"encoding/json"
-	"tutorial2_web_mysql_simple/models"
+	"beego_web_mysql/models"
 	"github.com/astaxie/beego/orm"
 )
 

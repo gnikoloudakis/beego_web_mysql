@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"tutorial2_web_mysql_simple/controllers"
+	"beego_web_mysql/controllers"
 	"github.com/astaxie/beego"
 )
 
